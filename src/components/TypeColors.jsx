@@ -1,0 +1,111 @@
+export const typeColors = {
+  normal: {
+    background: "bg-gradient-to-b from-[#735259] via-[#BC6B7C] to-[#7C3F4C]",
+    border: "border-normalBorder",
+    text: "text-normalText",
+    bg: "bg-[#735259]",
+  },
+  fighting: {
+    background: "bg-gradient-to-b from-[#96402A] via-[#F1613C] to-[#CB735D]",
+    border: "border-fightingBorder",
+    text: "text-fightingText",
+    bg: "bg-[#96402A]",
+  },
+
+  flying: {
+    background: "bg-gradient-to-b from-[#e3e3e3] via-[#fbfbfb] to-[#dadada]",
+    border: "border-flyingBorder",
+    text: "text-flyingText",
+    bg: "bg-[#e3e3e3]",
+  },
+  poison: {
+    background: "bg-gradient-to-b from-[#5B3184] via-[#A564E3] to-[#CE9BFF]",
+    border: "border-poisonBorder",
+    text: "text-poisonText",
+    bg: "bg-[#5B3184]",
+  },
+  ground: {
+    background: "bg-gradient-to-b from-[#654008] via-[#895C1A] to-[#D69638]",
+    border: "border-groundBorder",
+    text: "text-groundText",
+    bg: "bg-[#654008]",
+  },
+  rock: {
+    background: "bg-gradient-to-b from-[#7E7E7E] via-[#8D8D94] to-[#D3D3D3]",
+    border: "border-rockBorder",
+    text: "text-rockText",
+    bg: "bg-[#7E7E7E]",
+  },
+  bug: {
+    background: "bg-gradient-to-b from-[#62DB60] via-[#3BB039] to-[#AAFFA8]",
+    border: "border-bugBorder",
+    text: "text-bugText",
+    bg: "bg-[#62DB60]",
+  },
+  ghost: {
+    background: "bg-gradient-to-b from-[#323569] via-[#454AA8] to-[#787DDA]",
+    border: "border-ghostBorder",
+    text: "text-ghostText",
+    bg: "bg-[#323569]",
+  },
+  steel: {
+    background: "bg-gradient-to-b from-[#5E736C] via-[#728881] to-[#A8A8A8]",
+    border: "border-steelBorder",
+    text: "text-steelText",
+    bg: "bg-[#5E736C]",
+  },
+  fire: {
+    background: "bg-gradient-to-b from-[#F96D6F] via-[#E35825] to-[#E8AE1B]",
+    border: "border-fireBorder",
+    text: "text-fireText",
+    bg: "bg-[#F96D6F]",
+  },
+  water: {
+    background: "bg-gradient-to-b from-[#133258] via-[#1479FB] to-[#82B2F1]",
+    border: "border-waterBorder",
+    text: "text-waterText",
+    bg: "bg-[#133258]",
+  },
+  grass: {
+    background: "bg-gradient-to-b from-[#7EC6C5] via-[#ABDAC6] to-[#CAE099]",
+    border: "border-grassBorder",
+    text: "text-grassText",
+    bg: "bg-[#7EC6C5]",
+  },
+  electric: {
+    background: "bg-gradient-to-b from-[#0C1395] via-[#2B319B] to-[#7075D9]",
+    border: "border-electricBorder",
+    text: "text-electricText",
+    bg: "bg-[#0C1395]",
+  },
+  psychic: {
+    background: "bg-gradient-to-b from-[#E52D2D] via-[#D13E3E] to-[#F07F7F]",
+    border: "border-psychicBorder",
+    text: "text-psychicText",
+    bg: "bg-[#E52D2D]",
+  },
+  ice: {
+    background: "bg-gradient-to-b from-[#6FBEDF] via-[#64CBF5] to-[#BDEBFE]",
+    border: "border-iceBorder",
+    text: "text-iceText",
+    bg: "bg-[#6FBEDF]",
+  },
+  dragon: {
+    background: "bg-gradient-to-b from-[#478A93] via-[#56A4AE] to-[#A2BEC1]",
+    border: "border-dragonBorder",
+    text: "text-dragonText",
+    bg: "bg-[#478A93]",
+  },
+  dark: {
+    background: "bg-gradient-to-b from-[#030706] via-[#0D1211] to-[#5A5E5D]",
+    border: "border-darkBorder",
+    text: "text-darkText",
+    bg: "bg-[#030706]",
+  },
+  fairy: {
+    background: "bg-gradient-to-b from-[#971B45] via-[#C23867] to-[#CD7D98]",
+    border: "border-fairyBorder",
+    text: "text-fairyText",
+    bg: "bg-[#971B45]",
+  },
+};
