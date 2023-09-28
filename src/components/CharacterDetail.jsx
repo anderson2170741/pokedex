@@ -53,7 +53,7 @@ const CharacterDetail = () => {
             <img
               src={Logo}
               alt="Pokedex Logo"
-              className="ww-[215px] h-[38px] sm:w-[258px] sm:h-[47px] md:w-[323px] md:h-[57px] xl:w-[431px] xl:h-[76px] sm:ml-10 absolute bottom-[-5px] left-0 cursor-pointer"
+              className="w-[215px] h-[38px] sm:w-[258px] sm:h-[47px] md:w-[323px] md:h-[57px] xl:w-[431px] xl:h-[76px] sm:ml-10 absolute bottom-[-5px] left-0 cursor-pointer"
             />
           </Link>
           <div className="ellipse sm:mr-2 md:mr-0 absolute bottom-[-30px] sm:bottom-[-42px] md:bottom-[-48px] xl:bottom-[-60px] right-0 w-10 h-10 sm:w-14 sm:h-14 md:w-16 md:h-16 xl:w-20 xl:h-20 border-[6px] sm:border-[8px] md:border-[9px] xl:border-[12px] rounded-full z-10 border-rectangleBlack bg-white flex justify-center items-center">
